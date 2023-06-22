@@ -44,7 +44,7 @@ export default function Home() {
             <Text className="text-xl lg:text-3xl font-medium">
             Latest Lightening dev  Summaries
             </Text>
-            <Flex className="mt-8 space-x-6 flex-wrap">
+            <Flex className="mt-8  gap-6 flex-wrap">
               <Card />
               <Card />
               <Card />
